@@ -6,14 +6,14 @@
 /*   By: tgrangeo <tgrangeo@student.le-101.fr>      +:+   +:    +:    +:+     */
 /*                                                 #+#   #+    #+    #+#      */
 /*   Created: 2019/10/11 12:47:42 by tgrangeo     #+#   ##    ##    #+#       */
-/*   Updated: 2019/11/05 14:31:22 by tgrangeo    ###    #+. /#+    ###.fr     */
+/*   Updated: 2019/11/06 16:35:40 by tgrangeo    ###    #+. /#+    ###.fr     */
 /*                                                         /                  */
 /*                                                        /                   */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-char	*ft_strnstr(const char *haystack, char *needle, size_t len)
+char	*ft_strnstr(const char *haystack, const char *needle, size_t len)
 {
 	unsigned long int i;
 	unsigned long int j;
