@@ -6,7 +6,7 @@
 /*   By: tgrangeo <tgrangeo@student.le-101.fr>      +:+   +:    +:    +:+     */
 /*                                                 #+#   #+    #+    #+#      */
 /*   Created: 2019/10/11 12:52:15 by tgrangeo     #+#   ##    ##    #+#       */
-/*   Updated: 2019/11/14 14:24:52 by tgrangeo    ###    #+. /#+    ###.fr     */
+/*   Updated: 2019/10/11 12:52:17 by tgrangeo    ###    #+. /#+    ###.fr     */
 /*                                                         /                  */
 /*                                                        /                   */
 /* ************************************************************************** */
@@ -23,8 +23,3 @@ int	ft_toupper(int c)
 	else
 		return (c);
 }
-
-
-
-
-awghrstjdykfugij.hdftshjdgkfhj.bvhjghcxbvn 
